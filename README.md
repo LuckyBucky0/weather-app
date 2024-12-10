@@ -26,4 +26,4 @@ Make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/LuckyBucky0/weather-app.git
+   git clone https://github.com/LuckyBucky0/weather-app-react-native.git
