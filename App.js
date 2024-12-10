@@ -9,7 +9,7 @@ import { DisplayTemp } from './components/displayTemp/displayTemp';
 import { ConvertBtn } from './components/convertBtn/convertBtn';
 
 export default function App() {
-  const [inputValue, setInputValue] = useState(32); 
+  const [inputValue, setInputValue] = useState(0); 
   const [isFahrenheit, setIsFahrenheit] = useState(true); 
   const [background, setBackground] = useState(HotBackground)
 
