@@ -9,7 +9,7 @@ export const s = StyleSheet.create({
   },
   workspace:{
     height:450,
-    //backgroundColor:"red",
+    backgroundColor:"red",
     alignItems:"center",
     justifyContent:"space-evenly"
   },
